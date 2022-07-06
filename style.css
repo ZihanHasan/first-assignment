@@ -47,6 +47,73 @@ h1 {
     color: aliceblue;
     line-height: 500%;
     font-size: 24px;
+}
+
+.donate {
+    text-align: center;
+}
+
+.header2 {
+    font-weight: 700;
+    font-size: 70px;
+    text-align: center;
+}
+
+.description2 {
+    text-align: center;
+    color: rgb(105, 101, 101);
+    font-weight: 500;
+    font-size: 24px;
+    padding-left: 24%;
+    padding-right: 24%;
+}
+
+.container {
+    border: 1px white solid;
+    background-color: rgb(235, 240, 243);
+    display: inline-flex;
+    margin: 20px 40px;
+    padding: 40px 40px;
+    border-radius: 5px;
+    color: rgb(105, 101, 101);
+}
+
+.color-change {
+    border: 2px #FF5959 solid;
+    background-color: #FFEEEE;
+    display: inline-flex;
+    margin: 20px 40px;
+    padding: 40px 40px;
+    border-radius: 5px;
+    color: #FF5959;
+}
+
+.box {
+    padding-top: 70px;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+input {
+    border: none;
+    outline: none;
+    font-size: 24px;
+    text-align: center;
+    width: 80%;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 0;
+    border-bottom: 2px solid gray;
+    display: block;
 
 
+}
+
+#other-ammount {
+    text-align: center;
+    color: rgb(168, 175, 182);
+    font-size: 24px;
+    text-align: center;
 }
