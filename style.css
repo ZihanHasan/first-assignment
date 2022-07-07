@@ -183,3 +183,57 @@ h1 {
     padding-bottom: 2%;
     text-align: left;
 }
+
+.email {
+    position: absolute;
+    left: 38%;
+
+}
+
+.box4 {
+    border: 1px #ffffff00 solid;
+    background-color: rgba(255, 244, 214, 0.932);
+    margin: 80px 400px;
+    padding: 100px 50px;
+    border-radius: 5px;
+
+
+}
+
+.button2 {
+    border: none;
+    background-color: #FF5959;
+    font-size: 24px;
+    font-weight: 600;
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 10px;
+
+}
+
+.email-input {
+    border: none;
+    background-color: D9D9D9;
+    font-size: 24px;
+    font-weight: 600;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+}
+
+.bottom-part {
+    background-color: rgb(2, 2, 32);
+    text-align: center;
+}
+
+.orange {
+    color: #FF5959;
+    padding-top: 45px;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+.white {
+    color: aqua;
+    padding-bottom: 65px;
+}
